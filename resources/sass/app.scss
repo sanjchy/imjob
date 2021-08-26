@@ -1,0 +1,47 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+@import "~font-awesome/scss/font-awesome";
+
+// Other stuff
+@import "./dashboard/newCandidates";
+@import "./dashboard/cards";
+@import "./dashboard/dashboard";
+
+@media print {
+    .print-full-width {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+html {
+    font-size: 0.91rem;
+}
+
+#displayJob {
+    .modal-dialog {
+        max-width: 100% !important;
+        max-height: 100% !important;
+        margin: 2% 10%;
+    }
+}
+
+#assignedJobsDatatable::-webkit-scrollbar {
+    width: 1em;
+}
+
+#assignedJobsDatatable::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+#assignedJobsDatatable::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid #dee5eb;
+}

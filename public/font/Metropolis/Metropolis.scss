@@ -1,0 +1,289 @@
+@font-face {
+    font-family: "MetropolisBlack";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/764dbfe7212f7933f6be1a4f687ed1ad/MetropolisBlack.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisBlackItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/e27ce37493d98797c82262ecb636aa3b/MetropolisBlackItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MetropolisBold";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/e46d1ff3bbd7865b7bdfbd2bc74fafdf/MetropolisBold.ttf")
+        format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisBoldItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/ef0992ecf851aedff825e09e867ea791/MetropolisBoldItalic.ttf")
+        format("truetype");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MetropolisExtraBold";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/aba0929595c2e6843b555517f9d409b5/MetropolisExtraBold.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisExtraBoldItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/dd38cdf4aaab5fcc6ffebceb81daa16a/MetropolisExtraBoldItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MetropolisExtraLight";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/c6105950fe43b9f3f2f87fb2631dd422/MetropolisExtraLight.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisExtraLightItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/46a8072ca9f8c940f0dcba08e170b6cb/MetropolisExtraLightItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MetropolisLight";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/619d27806834a9d53a79e74c34c3ea55/MetropolisLight.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisLightItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/fc832ced70c98709397f1d2a18360d61/MetropolisLightItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MetropolisMedium";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/1f05958f614d4e1a9c554365a79d5fe5/MetropolisMedium.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisMediumItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/38592556c01ff5b36875939cc86f33db/MetropolisMediumItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MetropolisRegular";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/8e113ffbceb397a8af63536cc74969c6/MetropolisRegular.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisRegularItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/650b69114602ff058e997c55e39b4e9a/MetropolisRegularItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MetropolisSemiBold";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/f0f17e57a6bff586bd9168e48c693354/MetropolisSemiBold.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisSemiBoldItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/f9cabfef3cae059867f0512806ba3abd/MetropolisSemiBoldItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MetropolisThin";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/cc3f4bab1db6330dc05a48b610d828bb/MetropolisThin.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MetropolisThinItalic";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/f438ce4183bfa352b8869afa6efdac91/MetropolisThinItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* The following rules are deprecated. */
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/764dbfe7212f7933f6be1a4f687ed1ad/MetropolisBlack.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/e27ce37493d98797c82262ecb636aa3b/MetropolisBlackItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/e46d1ff3bbd7865b7bdfbd2bc74fafdf/MetropolisBold.ttf")
+        format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/ef0992ecf851aedff825e09e867ea791/MetropolisBoldItalic.ttf")
+        format("truetype");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/aba0929595c2e6843b555517f9d409b5/MetropolisExtraBold.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/dd38cdf4aaab5fcc6ffebceb81daa16a/MetropolisExtraBoldItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/c6105950fe43b9f3f2f87fb2631dd422/MetropolisExtraLight.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/46a8072ca9f8c940f0dcba08e170b6cb/MetropolisExtraLightItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/619d27806834a9d53a79e74c34c3ea55/MetropolisLight.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/fc832ced70c98709397f1d2a18360d61/MetropolisLightItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/1f05958f614d4e1a9c554365a79d5fe5/MetropolisMedium.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/38592556c01ff5b36875939cc86f33db/MetropolisMediumItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/8e113ffbceb397a8af63536cc74969c6/MetropolisRegular.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/650b69114602ff058e997c55e39b4e9a/MetropolisRegularItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/f0f17e57a6bff586bd9168e48c693354/MetropolisSemiBold.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/f9cabfef3cae059867f0512806ba3abd/MetropolisSemiBoldItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/cc3f4bab1db6330dc05a48b610d828bb/MetropolisThin.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Metropolis";
+    src: url("/assets/fonts/metropolis/d283c374f95567a131de266d8eee836c/f438ce4183bfa352b8869afa6efdac91/MetropolisThinItalic.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}

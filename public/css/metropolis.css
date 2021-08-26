@@ -1,0 +1,7 @@
+@font-face{
+    font-family:metropolis;
+    src:url(/font/Metropolis-BlackItalic.otf);
+    font-weight:900;
+    font-style:italic;
+    font-display:swap
+}
